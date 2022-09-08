@@ -1,7 +1,5 @@
-import { useEffect, useRef } from 'react'
-import LogoS from '../../../assets/images/logo-s.png'
 import './index.scss'
-import React, { Component } from "react";
+import React from "react";
 import anime from "animejs";
 
 const Logo = () => { 
@@ -14,8 +12,7 @@ const Logo = () => {
       return i * 250;
     }
   });
-
-  {
+{
     return (
       <div>
         <svg viewBox="-125 -5 300 300" style={{ fill: "none", stroke: "#ffd700" }}>

@@ -33,16 +33,21 @@ const About = () => {
             />
           </h1>
           <p>
-          I am an experienced sales manager with a history in Information Technology,
-          sales, services, and customer service. I am currently seeking employment 
-          in the Data Science industry where I can combine my knowledge of sales,
-          analytics, technology, and management to good use. 
+          I am an experienced Sales Manager with a demonstrated history of working in the 
+          business supplies and equipment industry. Skilled in Sales Management, Employee 
+          Development, Merchandising, Retail, Customer Satisfaction, Loss Prevention, 
+          and Inventory Management. Strong support professional with a Bachelor's degree 
+          focused in Information Technology and currently pursuing a Master's degree in 
+          Applied Business Analytics from American Public University. 
           </p>
           <p>
-          What else would someone that is good with both technology and people, 
-          has a natural analytical mind, and an ability to accidentally remember 
-          numbers be good at? 
-          I have used Excel, SQL, R, Python, PowerBI, and QlikView for my data projects. 
+          I am currently seeking employment in the Data Science industry where I can 
+          combine my knowledge of sales, analytics, technology, and management to good use. 
+          What else would someone that is good with both technology and people, has a 
+          naturally analytical mind, and an ability to accidentally remember numbers be 
+          good at? 
+          </p>
+          <p>I have used Excel, SQL, R, Python, PowerBI, and QlikView for my data projects.
           I am available for:
           </p>
           <p align="LEFT">
