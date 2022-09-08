@@ -33,10 +33,10 @@ const About = () => {
             />
           </h1>
           <p>
-          I am an experienced sales manager with a history in Information Technology, <br />
-          sales, services, and customer service. I am currently seeking employment <br />
-          in the Data Science industry where I can combine my knowledge of sales, <br />
-          analytics, technology, and management to good use. <br />
+          I am an experienced sales manager with a history in Information Technology,
+          sales, services, and customer service. I am currently seeking employment 
+          in the Data Science industry where I can combine my knowledge of sales,
+          analytics, technology, and management to good use. 
           </p>
           <p>
           What else would someone that is good with both technology and people, 

@@ -65,6 +65,12 @@ const Portfolio = () => {
                         strArray={"Portfolio".split("")}
                         idx={15}
                     />
+                    < br/>
+                    <AnimatedLetters
+                        letterClass={letterClass}
+                        strArray={"coming soon".split("")}
+                        idx={15}
+                    />
                 </h1>
                 <div>{renderPortfolio(portfolio)}</div>
             </div>

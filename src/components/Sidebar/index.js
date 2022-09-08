@@ -7,7 +7,7 @@ import {
   faLinkedin,
   faGithub,
   faYoutube,
-  faSkype,
+  faKaggle,
 } from '@fortawesome/free-brands-svg-icons'
 import {
   faHome,
@@ -103,6 +103,19 @@ const Sidebar = () => {
           >
             <FontAwesomeIcon
               icon={faYoutube}
+              color="#4d4d4e"
+              className="anchor-icon"
+            />
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.kaggle.com/tibedets"
+            target="_blank"
+            rel="noreferrer"
+            >
+            <FontAwesomeIcon
+              icon={faKaggle}
               color="#4d4d4e"
               className="anchor-icon"
             />
